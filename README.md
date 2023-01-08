@@ -44,6 +44,13 @@ Use of the LinkedIn logo has to comply with the [brand guidelines](https://brand
 
 The logos of LinkedIn can be downloaded from their [offical website](https://content.linkedin.com/content/dam/brand/site/brand-assets/linkedin_brand_package.zip).
 
+## Reddit
+
+Use of the Reddit logo has to comply with the [brand guidelines](https://www.redditinc.com/brand) of Reddit.
+
+The logos of Reddit can be downloaded from their [offical website](https://www.redditinc.com/brand).
+
+
 ## Pinterest
 
 Use of the Pinterest logo has to comply with the [brand guidelines](https://brand.linkedin.com/policies) of Pinterest.
@@ -93,3 +100,23 @@ The logos of Telegram can be downloaded from their [offical website](https://tel
 Use of the Threema logo has to comply with the [brand guidelines](https://threema.ch/en/press) of Threema.
 
 The logos of Threema can be downloaded from their [offical website](https://threema.ch/en/press).
+
+## Coding
+
+### Stack Overflow
+
+Use of the Stack Overflow logo has to comply with the [brand guidelines](https://stackoverflow.design/brand/principles/) of Stack Overflow.
+
+The logos of Stack Overflow can be downloaded from their [offical website](https://stackoverflow.design/brand/logo/).
+
+### Github
+
+Use of the Github logo has to comply with the [brand guidelines](https://github.com/logos) of Github.
+
+The logos of Github can be downloaded from their [offical website](https://github.com/logos).
+
+### Gitlab
+
+Use of the Gitlab logo has to comply with the [brand guidelines](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/) of Gitlab.
+
+The logos of Gitlab can be downloaded from their [offical website](https://about.gitlab.com/press/press-kit/).
